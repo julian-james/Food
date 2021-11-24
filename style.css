@@ -1,0 +1,12 @@
+.ingredients {
+    display: flex;
+}
+
+.img-div {
+    display: flex;
+    justify-content: flex-end;
+}
+
+body {
+    background-color: #def59f;
+}
